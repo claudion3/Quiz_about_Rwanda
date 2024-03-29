@@ -1,7 +1,7 @@
 
 # Quiz about Rwanda
 
-The "Quiz about Rwanda" is a web application built using _Vue.js_ and _TypeScript technologies_. Vue.js is a progressive JavaScript framework for building user interfaces, while TypeScript is a typed superset of JavaScript that adds static typing to the language, enhancing code quality and maintainability.
+The "Quiz about Rwanda" is a web application built using _Vue.js_ and _TypeScript_ technologies. Vue.js is a progressive JavaScript framework for building user interfaces, while TypeScript is a typed superset of JavaScript that adds static typing to the language, enhancing code quality and maintainability.
 
 This app provides users with an interactive platform to engage and test their knowledge about Rwanda. Users can participate in a quiz designed to assess their understanding of various aspects related to Rwanda, such as its culture, history, geography, and more.
 
