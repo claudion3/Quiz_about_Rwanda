@@ -1,10 +1,22 @@
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Quiz about Rwanda
 
-## Recommended Setup
+- The "Quiz about Rwanda" is a web application built using Vue.js and TypeScript technologies. Vue.js is a progressive JavaScript framework for building user interfaces, while TypeScript is a typed superset of JavaScript that adds static typing to the language, enhancing code quality and maintainability.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+This app provides users with an interactive platform to engage and test their knowledge about Rwanda. Users can participate in a quiz designed to assess their understanding of various aspects related to Rwanda, such as its culture, history, geography, and more.
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
-# Quiz_about_Rwanda
+Throughout the quiz, users can interact with the interface to answer questions and navigate through different sections. At the end of the quiz, users receive a score based on their responses, providing feedback on their performance and knowledge level.
+
+Overall, the "Quiz about Rwanda" app offers an engaging and educational experience, allowing users to learn more about Rwanda while having fun testing their knowledge through the quiz feature.
+
+
+### 📦 NPM scripts and commands
+
+| Command          | Note                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| `npm install`    | Install dependencies. For client side you will have to navigate in client folder `cd client` then run NPM install              |
+| `npm run build`  | Build the project in production mode. |
+
+                                                        |                                                                                             |
+
+| `npm run dev`    | _This is generally the command you run for development_.                              |
