@@ -15,8 +15,5 @@ Overall, the "Quiz about Rwanda" app offers an engaging and educational experien
 | Command          | Note                                                                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | `npm install`    | Install dependencies. For client side you will have to navigate in client folder `cd client` then run NPM install              |
-| `npm run build`  | Build the project in production mode. |
-
-                                                        |                                                                                             |
-
-| `npm run dev`    | _This is generally the command you run for development_.                              |
+| `npm run build`  | Build the project in production mode.                                                                                          |
+| `npm run dev`    | _This is generally the command you run for development_.                                                                       |
